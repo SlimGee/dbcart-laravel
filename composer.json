@@ -1,5 +1,5 @@
 {
-    "name": "nabeelalalmai/dbcart-laravel",
+    "name": "slim-gee/dbcart-laravel",
     "description": "Shopping Cart for Laravel > 5.5 , Laravel 6 and Laravel 7 that uses Database instead of Sessions. With support of Laravel 7.x",
     "keywords": [
         "Nabeel Al-Almai",
