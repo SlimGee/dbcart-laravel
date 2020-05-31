@@ -1,20 +1,18 @@
 {
-    "name": "nabeelalalmai/dbcart-laravel",
-    "description": "Shopping Cart for Laravel > 5.5 , Laravel 6 and Laravel 7 that uses Database instead of Sessions. With support of Laravel 7.x",
+    "name": "slim-gee/dbcart-laravel",
+    "description": "Shopping cart",
     "keywords": [
-        "Nabeel Al-Almai",
         "Shopping Cart",
-        "dbcart-laravel",
         "database",
         "e-commerce",
         "laravel"
     ],
-    "homepage": "https://github.com/nabeel-alalmai/dbcart-laravel",
+    "homepage": "https://github.com/slim-gee/dbcart-laravel",
     "license": "MIT",
     "authors": [
         {
-            "name": "Nabeel Al-Almai",
-            "email": "nabeel.alalmai@gmail.com"
+            "name": "Given Ncube",
+            "email": "givenyslim12@gmail.com"
         }
     ],
 
